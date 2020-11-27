@@ -1,11 +1,6 @@
 
 /*************************************************************************
- * @author Kevin Wayne
- *
- * Description: A term and its weight.
- * 
- * @author Owen Astrachan, revised for Java 8-11, toString added
- * 
+ * Description: A term and its weight. 
  *************************************************************************/
 
 import java.util.Comparator;
