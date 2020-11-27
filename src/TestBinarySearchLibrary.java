@@ -2,10 +2,8 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
 import java.util.*;
 
-/**
+ /*
  * Testing BinarySearchLibrary for correctness
- * @author ola
- *
  */
 public class TestBinarySearchLibrary {
 
