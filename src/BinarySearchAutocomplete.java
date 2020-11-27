@@ -1,13 +1,8 @@
 import java.util.*;
 
-/**
- * 
+ /* 
  * Using a sorted array of Term objects, this implementation uses binary search
  * to find the top term(s).
- * 
- * @author Austin Lu, adapted from Kevin Wayne
- * @author Jeff Forbes
- * @author Owen Astrachan in Fall 2018, revised API
  */
 public class BinarySearchAutocomplete implements Autocompletor {
 
