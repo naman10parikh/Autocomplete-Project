@@ -1,6 +1,4 @@
 /*************************************************************************
- * @author Matthew Drabick, adapted by Austin Lu for COMPSCI 201 Autocomplete,
- * 
  * Interactive GUI used to demonstrate the Autocomplete data type.
  *
  *   * Reads a list of terms and weights from a file, specified as a command-line argument.
@@ -24,7 +22,6 @@
  *  % java AutocompleteGUI cities.txt 10
  *
  *************************************************************************/
-/* Don't modify anything under this line */
 
 import java.awt.Color;
 import java.awt.Container;
