@@ -1,9 +1,8 @@
 import java.util.*;
-/**
+ /*
  * This class extends BruteAutocomplete, however, it does not use binary search or a PriorityQueue
  * to find the top matches. The runtime is relatively slower because all possible matches are
  * required to be sorted instead of only the specified number of top matches.
- * @author Naman Parikh
  */
 
 public class SlowBruteAutoComplete extends BruteAutocomplete {
